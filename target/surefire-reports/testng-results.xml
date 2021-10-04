@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="15173" started-at="2021-10-04T11:43:24 IST" finished-at="2021-10-04T11:43:40 IST">
+    <groups>
+    </groups>
+    <test name="PagesTest" duration-ms="15173" started-at="2021-10-04T11:43:24 IST" finished-at="2021-10-04T11:43:40 IST">
+      <class name="RunTimeTest.runTimeTesting">
+        <test-method status="PASS" signature="runMavenCommand()[pri:0, instance:RunTimeTest.runTimeTesting@6d7b4f4c]" name="runMavenCommand" duration-ms="15142" started-at="2021-10-04T11:43:24 IST" finished-at="2021-10-04T11:43:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMavenCommand -->
+      </class> <!-- RunTimeTest.runTimeTesting -->
+    </test> <!-- PagesTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
